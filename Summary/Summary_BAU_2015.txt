@@ -1,0 +1,150 @@
+Stocks for 2015 (at 01.01.2016)
+
+Recycled (all regions):
+	Ptot: 	2.1e+01 Tg 	(2e+01 - 2.2e+01)
+Incinerated (all regions):
+	Ptot: 	5.5e+01 Tg 	(5.2e+01 - 5.8e+01)
+Landfilled (all regions):
+	Ptot: 	2.9e+02 Tg 	(2.8e+02 - 3e+02)
+Open burned (all regions):
+	P: 	29.4 Tg 	(27.9 - 31.0)
+Mismanaged pool (all regions):
+	Ptot: 	7.2e+01 Tg 	(6.6e+01 - 7.8e+01)
+	  P: 	4.1e+01 Tg 	(3.7e+01 - 4.4e+01)
+	LMP: 	2.1e+01 Tg 	(1.7e+01 - 2.4e+01)
+	sMP: 	1e+01 Tg 	(7.5 - 1.3e+01)
+Mismanaged pool (by regions):
+-> R1  : 28.976 	Tg (40.2 %)
+  --> P  : 15.068 	Tg (52.0 %)
+  --> LMP: 8.256 	Tg (28.5 %)
+  --> sMP: 5.237 	Tg (18.1 %)
+-> R2  : 28.123 	Tg (39.1 %)
+  --> P  : 16.298 	Tg (58.0 %)
+  --> LMP: 8.462 	Tg (30.1 %)
+  --> sMP: 3.439 	Tg (12.2 %)
+-> R3  : 15.466 	Tg (21.5 %)
+  --> P  : 9.098 	Tg (58.8 %)
+  --> LMP: 4.724 	Tg (30.5 %)
+  --> sMP: 1.674 	Tg (10.8 %)
+Soil (all regions):
+	sMP: 	0.07 Tg 	(0.05 - 0.1)
+Atmo :
+	sMP: 	4e-05 Tg 	(3e-05 - 7e-05)
+Surf :
+	Ptot: 	0.002 Tg 	(0.0015 - 0.0027)
+	  P: 	0.0011 Tg 	(0.00059 - 0.0016)
+	LMP: 	0.00013 Tg 	(8e-05 - 0.00019)
+	sMP: 	0.00075 Tg 	(0.00048 - 0.0011)
+	 %P: 54.0%
+Sand :
+	Ptot: 	0.0066 Tg 	(0.0037 - 0.01)
+	  P: 	0.0042 Tg 	(0.0024 - 0.0065)
+	LMP: 	0.0016 Tg 	(0.00093 - 0.0026)
+	sMP: 	0.0007 Tg 	(0.00041 - 0.0012)
+Ssed :
+	Ptot: 	5.9 Tg 	(2.3 - 1.4e+01)
+	  P: 	1.0 Tg 	(0.58 - 1.6)
+	LMP: 	4.7 Tg 	(0.54 - 1.2e+01)
+	sMP: 	0.25 Tg 	(0.17 - 0.35)
+Wcol :
+	Ptot: 	0.8 Tg 	(0.55 - 1.1)
+	LMP: 	0.64 Tg 	(0.38 - 0.9)
+	sMP: 	0.14 Tg 	(0.093 - 0.21)
+Dsed :
+	Ptot: 	0.011 Tg 	(0.007 - 0.015)
+	LMP: 	0.011 Tg 	(0.0064 - 0.015)
+	sMP: 	0.00046 Tg 	(0.0003 - 0.00068)
+
+Fluxes for 2016 :
+
+Waste flux :
+   Total waste: 20.529 Tg/y (19.852-21.145)
+   ---> R1 : 13.83 Tg/y (13.374-14.245)
+   ---> R2 : 4.03 Tg/y (3.897-4.151)
+   ---> R3 : 2.669 Tg/y (2.581-2.749)
+   Recycled: 1.931 Tg/y (1.847-2.023)
+   ---> R1 : 1.586 Tg/y (1.516-1.661)
+   ---> R2 : 0.208 Tg/y (0.199-0.218)
+   ---> R3 : 0.138 Tg/y (0.132-0.144)
+   Incinerated: 5.021 Tg/y (4.764-5.25)
+   ---> R1 : 5.007 Tg/y (4.75-5.235)
+   ---> R2 : 0.009 Tg/y (0.008-0.009)
+   ---> R3 : 0.006 Tg/y (0.006-0.006)
+   landfilled: 9.119 Tg/y (8.752-9.5)
+   ---> R1 : 6.306 Tg/y (6.047-6.596)
+   ---> R2 : 1.69 Tg/y (1.593-1.777)
+   ---> R3 : 1.119 Tg/y (1.055-1.177)
+   Mismanaged: 4.415 Tg/y (4.207-4.644)
+   ---> R1 : 0.898 Tg/y (0.856-0.945)
+   ---> R2 : 2.116 Tg/y (2.016-2.226)
+   ---> R3 : 1.401 Tg/y (1.335-1.474)
+
+River Plastic flux :
+   Ptot: 0.307 Tg/y (0.14-0.567)
+   P   : 0.038 	Tg/y (12.5 %)
+   LMP : 0.238 	Tg/y (77.8 %)
+   sMP : 0.024 	Tg/y (7.7 %)
+-> R1  : 0.27 	Tg/y (88.2 %)
+  --> P  : 0.034 	Tg/y (12.5 %)
+  --> LMP: 0.21 	Tg/y (77.6 %)
+  --> sMP: 0.021 	Tg/y (7.6 %)
+-> R2  : 0.036 	Tg/y (11.8 %)
+  --> P  : 0.004 	Tg/y (12.2 %)
+  --> LMP: 0.028 	Tg/y (78.4 %)
+  --> sMP: 0.003 	Tg/y (8.1 %)
+-> R3  : 0.00029 	Tg/y (0.1 %)
+  --> P  : 4e-05 	Tg/y (12.7 %)
+  --> LMP: 0.00023 	Tg/y (78.5 %)
+  --> sMP: 2e-05 	Tg/y (8.3 %)
+
+River sMP flux :
+   from mism: 0.023 Tg/y
+   from soil: 0.0001 Tg/y (0.4% of total sMP river flux)
+
+Sinking fluxes :
+   Ptot to ssed: 0.251 Tg/y
+              P: 0.038 Tg/y (99.0% of river P flux)
+            LMP: 0.2 Tg/y (84.0% of river LMP flux)
+            sMP: 0.015 Tg/y (65.0% of river sMP flux)
+   Ptot to wcol: 0.037 Tg/y
+            LMP: 0.027 Tg/y (11.0% of river LMP flux)
+            sMP: 0.009 Tg/y (38.0% of river sMP flux)
+   Ptot to dsed: 0.00068 Tg/y
+            LMP: 0.00064 Tg/y
+            sMP: 4e-05 Tg/y
+
+Beaching fluxes :
+   Ptot to sand: 0.00024 Tg/y
+
+Atmospheric fluxes :
+   Deposition:
+   Total : 0.0087 Tg/y
+   sMP to surf: 0.0015 Tg/y
+   sMP to mism: 0.0023 Tg/y
+   sMP to soil: 0.0049 Tg/y
+   Emission:
+   Total : 0.0088 Tg/y
+   sMP from surf: 0.0007 Tg/y
+   sMP from mism: 0.008 Tg/y
+   sMP from soil: 0.0001 Tg/y
+
+=========== For Control ============
+Total waste produced (box version) : 476.362 Tg
+Total plastic in the model : 476.362 Tg
+Difference: -0.0 Tg
+which corresponds to -0.0 % of the total waste produced
+	Total marine plastic: 	7.1 Tg 	(3.2 - 1.5e+01)
+(P: 1.04 Tg, LMP: 5.703 Tg, sMP: 0.393 Tg)
+which corresponds to 1.5 % of the total waste produced
+               or to 1.98 % of the total terrestrial plastics
+               or to 9.91 % of the total mismanaged waste
+Total terrestrial plastic : 361.252 Tg
+which corresponds to 75.8 % of the total waste produced
+Total recycled plastic : 20.54 Tg
+which corresponds to 4.3 % of the total waste produced
+Total incinerated plastic : 55.064 Tg
+which corresponds to 11.6 % of the total waste produced
+Total landfilled plastic : 290.091 Tg
+which corresponds to 60.9 % of the total waste produced
+Total mismanaged plastic : 72.003 Tg
+which corresponds to 15.1 % of the total waste produced
